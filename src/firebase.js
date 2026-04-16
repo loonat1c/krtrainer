@@ -13,12 +13,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "REPLACE_WITH_YOUR_API_KEY",
-  authDomain: "REPLACE_WITH_YOUR_PROJECT.firebaseapp.com",
-  projectId: "REPLACE_WITH_YOUR_PROJECT_ID",
-  storageBucket: "REPLACE_WITH_YOUR_PROJECT.appspot.com",
-  messagingSenderId: "REPLACE_WITH_YOUR_SENDER_ID",
-  appId: "REPLACE_WITH_YOUR_APP_ID",
+  apiKey: "AIzaSyCElGk_7ssUlZ2PK1SPcTcK8el7vLyYqeE",
+  authDomain: "krtrainer.firebaseapp.com",
+  projectId: "krtrainer",
+  storageBucket: "krtrainer.firebasestorage.app",
+  messagingSenderId: "1095564303120",
+  appId: "1:1095564303120:web:a756d407970b97ae832395"
 };
 
 const app = initializeApp(firebaseConfig);
